@@ -1,0 +1,9 @@
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa.Repaso Ordi1-NumAmigos\ED - Programa.Repaso Ordi1-NumAmigos\bin\Debug\ED - Programa.Repaso Ordi1-NumAmigos.exe.config
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa.Repaso Ordi1-NumAmigos\ED - Programa.Repaso Ordi1-NumAmigos\bin\Debug\ED - Programa.Repaso Ordi1-NumAmigos.exe
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa.Repaso Ordi1-NumAmigos\ED - Programa.Repaso Ordi1-NumAmigos\bin\Debug\ED - Programa.Repaso Ordi1-NumAmigos.pdb
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa.Repaso Ordi1-NumAmigos\ED - Programa.Repaso Ordi1-NumAmigos\obj\Debug\ED - Programa.Repaso Ordi1-NumAmigos.csprojResolveAssemblyReference.cache
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa.Repaso Ordi1-NumAmigos\ED - Programa.Repaso Ordi1-NumAmigos\obj\Debug\ED___Programa.Repaso_Ordi1_NumAmigos.Form1.resources
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa.Repaso Ordi1-NumAmigos\ED - Programa.Repaso Ordi1-NumAmigos\obj\Debug\ED___Programa.Repaso_Ordi1_NumAmigos.Properties.Resources.resources
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa.Repaso Ordi1-NumAmigos\ED - Programa.Repaso Ordi1-NumAmigos\obj\Debug\ED - Programa.Repaso Ordi1-NumAmigos.csproj.GenerateResource.Cache
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa.Repaso Ordi1-NumAmigos\ED - Programa.Repaso Ordi1-NumAmigos\obj\Debug\ED - Programa.Repaso Ordi1-NumAmigos.exe
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa.Repaso Ordi1-NumAmigos\ED - Programa.Repaso Ordi1-NumAmigos\obj\Debug\ED - Programa.Repaso Ordi1-NumAmigos.pdb

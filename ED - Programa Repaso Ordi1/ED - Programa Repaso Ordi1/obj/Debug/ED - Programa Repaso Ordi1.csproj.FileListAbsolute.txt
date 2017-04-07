@@ -1,0 +1,9 @@
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa Repaso Ordi1\ED - Programa Repaso Ordi1\bin\Debug\ED - Programa Repaso Ordi1.exe.config
+C:\Users\andy_\Documents\Visual Studio 2015\Projects\ED - Programa Repaso Ordi1\ED - Programa Repaso Ordi1\bin\Debug\ED - Programa Repaso Ordi1.exe
+C:\Users\andy_\Documents\Visual Studio 2015\Projects\ED - Programa Repaso Ordi1\ED - Programa Repaso Ordi1\bin\Debug\ED - Programa Repaso Ordi1.pdb
+C:\Users\andy_\Documents\Visual Studio 2015\Projects\ED - Programa Repaso Ordi1\ED - Programa Repaso Ordi1\obj\Debug\ED - Programa Repaso Ordi1.csprojResolveAssemblyReference.cache
+C:\Users\andy_\Documents\Visual Studio 2015\Projects\ED - Programa Repaso Ordi1\ED - Programa Repaso Ordi1\obj\Debug\ED___Programa_Repaso_Ordi1.Form1.resources
+C:\Users\andy_\Documents\Visual Studio 2015\Projects\ED - Programa Repaso Ordi1\ED - Programa Repaso Ordi1\obj\Debug\ED___Programa_Repaso_Ordi1.Properties.Resources.resources
+C:\Users\andy_\Documents\Visual Studio 2015\Projects\ED - Programa Repaso Ordi1\ED - Programa Repaso Ordi1\obj\Debug\ED - Programa Repaso Ordi1.csproj.GenerateResource.Cache
+C:\Users\andy_\Documents\Visual Studio 2015\Projects\ED - Programa Repaso Ordi1\ED - Programa Repaso Ordi1\obj\Debug\ED - Programa Repaso Ordi1.exe
+C:\Users\andy_\Documents\Visual Studio 2015\Projects\ED - Programa Repaso Ordi1\ED - Programa Repaso Ordi1\obj\Debug\ED - Programa Repaso Ordi1.pdb
